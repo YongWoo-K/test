@@ -1,0 +1,4 @@
+1)Window
+2)Preferences
+3)General -> workspace -> Refresh using native hooks or polling 체크
+(기본 후크 또는 폴링을 사용하여 새로고침)
